@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: 'Hexo'
-description: 'Hexo'
+title: 'Quick Tool - QuickRedis'
+subtitle: 'Quick Tool - QuickRedis'
+description: 'Quick Tool - QuickRedis'
 keywords:
-author: John Doe
+author: QuickOfficial
 language: en
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -101,4 +101,4 @@ deploy:
   type: git
   repo: https://github.com/quick123official/quick123official.github.io
   branch: master
-  message: update
+  message: add new info
