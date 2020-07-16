@@ -2,7 +2,7 @@
 
 menu:
   Home: /
-  QuickRedis: /
+  QuickRedis: /tags/QuickRedis
 
 # SubNav
 subnav:
@@ -35,7 +35,7 @@ excerpt_link: true
 # 文章卡片右下角常驻链接，不需要请设置为false
 show_all_link: "read more"
 # 数学公式
-mathjax: true
+mathjax: false
 # 是否在新窗口打开链接
 open_in_new: true
 
@@ -113,8 +113,8 @@ slider:
 #smart_menu:
 #  friends: false
 smart_menu:
-  innerArchive: "all articles"
-  aboutme: "about me"
+  innerArchive: "All Articles"
+  aboutme: "About Me"
 
 friends:
   github: https://github.com/quick123official/quick_redis_blog

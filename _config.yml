@@ -134,3 +134,8 @@ permalink_pathed_title:
     use: true
     prefix: "article/"
     postfix: ""
+
+# Generate atom feed
+feed:
+    type: atom
+    path: atom.xml

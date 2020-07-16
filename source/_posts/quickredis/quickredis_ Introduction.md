@@ -1,6 +1,13 @@
 ---
-title: QuickRedis 介绍
+layout: post
+title: "QuickRedis 介绍"
+date: 2020-07-17 00:00
+comments: true
+tags: 
+	- QuickRedis
+	- Redis
 ---
+
 # QuickRedis
 ## 介绍
 QuickRedis 是一款 **永久免费** 的 Redis 可视化管理工具。它支持**直连、哨兵、集群**模式，支持亿万数量级的 key，还有令人兴奋的 UI。QuickRedis 同时支持 Windows 和 Mac 下运行。QuickRedis 有可能是业界最好的 Redis 可视化管理工具。
