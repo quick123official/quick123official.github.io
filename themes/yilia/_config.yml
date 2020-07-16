@@ -1,7 +1,7 @@
 # Header
 
 menu:
-  主页: /
+  Home: /
   QuickRedis: /
 
 # SubNav
@@ -31,9 +31,9 @@ root: /
 # Content
 
 # 文章太长，截断按钮文字
-excerpt_link: more
+excerpt_link: true
 # 文章卡片右下角常驻链接，不需要请设置为false
-show_all_link: "展开全文"
+show_all_link: "read more"
 # 数学公式
 mathjax: true
 # 是否在新窗口打开链接
@@ -63,7 +63,7 @@ top: true
 # Miscellaneous
 baidu_analytics: ""
 google_analytics: ""
-favicon: /favicon.ico
+favicon: /images/common/favicon.ico
 
 #你的头像url
 avatar:
@@ -113,12 +113,30 @@ slider:
 #smart_menu:
 #  friends: false
 smart_menu:
-  innerArchive: "所有文章"
-  friends: "友链"
-  aboutme: "关于我"
+  innerArchive: "all articles"
+  aboutme: "about me"
 
 friends:
   github: https://github.com/quick123official/quick_redis_blog
   gitee: https://gitee.com/quick123official/quick_redis_blog
 
-aboutme: <br>致力于免费的效率工具<br>谢谢大家
+aboutme: <br>提供免费的效率工具<br>提供免費的效率工具<br>Provide free efficiency tools<br>निःशुल्क दक्षता उपकरण प्रदान करें<br>Stellen Sie kostenlose Effizienz-Tools bereit<br>Fournir des outils d'efficacité gratuits<br>Предоставить бесплатные инструменты эффективности<br>Bied gratis efficiëntiehulpmiddelen<br>Proporcionar herramientas de eficiencia gratuitas.<br>Fornire strumenti di efficienza gratuiti<br>Забезпечити безкоштовні інструменти ефективності<br>Zapewnij bezpłatne narzędzia wydajności<br>Ge gratis effektivitetsverktyg<br>...
+
+jsonContent:
+  meta: false
+  pages: false
+  posts:
+    title: true
+    date: true
+    path: true
+    text: false
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: false
+    link: false
+    permalink: false
+    excerpt: false
+    categories: false
+    tags: true

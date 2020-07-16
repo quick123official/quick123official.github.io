@@ -18,11 +18,11 @@ Windows & Mac：[https://gitee.com/quick123official/quick_redis_blog/](https://g
 Windows & Mac：[https://github.com/quick123official/quick_redis_blog/](https://github.com/quick123official/quick_redis_blog/)
 ## 软件截图
 
-- 首页![首页](https://images.gitee.com/uploads/images/2020/0525/163820_bcaaa7c8_7565825.png "屏幕截图.png")
+- 首页![首页](https://quick123.net/images/quickredis_Introduction/home.png "home.png")
 
-- 直连模式![直连模式](https://images.gitee.com/uploads/images/2020/0525/163731_bc3177ab_7565825.png "屏幕截图.png")
+- 直连模式![直连模式](https://quick123.net/images/quickredis_Introduction/saobing.png "saobing.png")
 
-- 哨兵模式![哨兵模式](https://images.gitee.com/uploads/images/2020/0525/163845_2e5a89a6_7565825.png "屏幕截图.png")
+- 哨兵模式![哨兵模式](https://quick123.net/images/quickredis_Introduction/zhilian.png "zhilian.png")
 
 ## FAQ 
 如果你有任何使用方面的问题，请通过下面方式留言：

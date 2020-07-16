@@ -13,7 +13,7 @@ timezone: "Asia/Shanghai"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://quick123official.github.io/
+url: https://quick123.net/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -122,3 +122,9 @@ jsonContent:
         excerpt: false
         categories: false
         tags: true
+# js css 缩小插件
+html_minifier:
+  exclude: 
+# sitemap
+sitemap:
+    path: sitemap.xml
