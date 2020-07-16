@@ -15,7 +15,7 @@ timezone: "Asia/Shanghai"
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://quick123.net/
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :id/
 permalink_defaults:
 pretty_urls:
     trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -98,7 +98,7 @@ theme: yilia
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-    type: git
+    type: git,cjh_baidu_url_submitter,cjh_google_url_submitter
     repo: https://github.com/quick123official/quick123official.github.io
     branch: master
     message: add new info
@@ -124,7 +124,26 @@ jsonContent:
         tags: true
 # js css 缩小插件
 html_minifier:
-  exclude: 
+    exclude:
 # sitemap
 sitemap:
     path: sitemap.xml
+# 主动提交文章
+hexo_submit_urls_to_search_engine:
+    submit_condition: count #链接被提交的条件，可选值：count | period 现仅支持count
+    count: 10 # 提交最新的10个链接
+    period: 900 # 提交修改时间在 900 秒内的链接
+    google: 0 # 是否向Google提交，可选值：1 | 0（0：否；1：是）
+    bing: 0 # 是否向bing提交，可选值：1 | 0（0：否；1：是）
+    baidu: 1 # 是否向baidu提交，可选值：1 | 0（0：否；1：是）
+    txt_path: submit_urls.txt ## 文本文档的地址， 需要推送的链接会保存在此文本文档里
+    baidu_host: https://quick123.net/ ## 在百度站长平台中注册的域名
+    baidu_token: bsDCLFpCoeJn3ktP ## 请注意这是您的秘钥， 所以请不要把它直接发布在公众仓库里!
+    bing_host: https://quick123.net/ ## 在bing站长平台中注册的域名
+    bing_token: 164ea95cccc94767b4f164abf8c4dd35 ## 请注意这是您的秘钥， 所以请不要把它直接发布在公众仓库里!
+
+# 生成有好连接
+permalink_pathed_title:
+    use: true
+    prefix: "article/"
+    postfix: ""
