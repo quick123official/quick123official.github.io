@@ -66,7 +66,7 @@ google_analytics: ""
 favicon: /images/common/favicon.ico
 
 #你的头像url
-avatar:
+avatar: /images/common/quick_redis.png
 
 #是否开启分享
 share_jia: true
@@ -120,7 +120,7 @@ friends:
   github: https://github.com/quick123official/quick_redis_blog
   gitee: https://gitee.com/quick123official/quick_redis_blog
 
-aboutme: <br>提供免费的效率工具<br>提供免費的效率工具<br>Provide free efficiency tools<br>निःशुल्क दक्षता उपकरण प्रदान करें<br>Stellen Sie kostenlose Effizienz-Tools bereit<br>Fournir des outils d'efficacité gratuits<br>Предоставить бесплатные инструменты эффективности<br>Bied gratis efficiëntiehulpmiddelen<br>Proporcionar herramientas de eficiencia gratuitas.<br>Fornire strumenti di efficienza gratuiti<br>Забезпечити безкоштовні інструменти ефективності<br>Zapewnij bezpłatne narzędzia wydajności<br>Ge gratis effektivitetsverktyg<br>...
+aboutme: <br>提供免费的效率工具</br>提供免費的效率工具<br>Provide free efficiency tools<br>निःशुल्क दक्षता उपकरण प्रदान करें<br>Stellen Sie kostenlose Effizienz-Tools bereit<br>Fournir des outils d'efficacité gratuits<br>Предоставить бесплатные инструменты эффективности<br>Bied gratis efficiëntiehulpmiddelen<br>Proporcionar herramientas de eficiencia gratuitas.<br>Fornire strumenti di efficienza gratuiti<br>Забезпечити безкоштовні інструменти ефективності<br>Zapewnij bezpłatne narzędzia wydajności<br>Ge gratis effektivitetsverktyg<br>...
 
 jsonContent:
   meta: false
