@@ -10,13 +10,14 @@ tags:
 
 # QuickRedis
 ## 介绍
-QuickRedis 是一款 **永久免费** 的 Redis 可视化管理工具。它支持**直连、哨兵、集群**模式，支持亿万数量级的 key，还有令人兴奋的 UI。QuickRedis 同时支持 Windows 和 Mac 下运行。QuickRedis 有可能是业界最好的 Redis 可视化管理工具。
+QuickRedis 是一款 **永久免费** 的 Redis 可视化管理工具。它支持**直连、哨兵、集群**模式，支持亿万数量级的 key，还有令人兴奋的 UI。QuickRedis 支持 Windows 和 Mac 下运行。QuickRedis 有可能是业界最好的 Redis 可视化管理工具。
 
 QuickRedis 是一个效率工具，**当别人在努力敲命令的时候，而你已经在喝茶。**
 
-## 下载地址（请不要使用迅雷等下载工具进行下载）
+## 下载地址
+
 **使用 百度网盘 下载**
-Windows & Mac：链接: [https://pan.baidu.com/s/1CwYGZ2aL2TNBsbLFmaeJ9A](https://pan.baidu.com/s/1CwYGZ2aL2TNBsbLFmaeJ9A) 提取码: rzdv
+Windows & Mac：链接: [https://pan.baidu.com/s/1zalgnwkoeC6-YcWMDN2StQ](https://pan.baidu.com/s/1zalgnwkoeC6-YcWMDN2StQ "百度网盘") 提取码: qw3i
 
 **使用 gitee 下载**
 Windows & Mac：[https://gitee.com/quick123official/quick_redis_blog/](https://gitee.com/quick123official/quick_redis_blog/)
@@ -25,11 +26,41 @@ Windows & Mac：[https://gitee.com/quick123official/quick_redis_blog/](https://g
 Windows & Mac：[https://github.com/quick123official/quick_redis_blog/](https://github.com/quick123official/quick_redis_blog/)
 ## 软件截图
 
-- 首页![首页](https://quick123.net/images/quickredis_Introduction/home.png "home.png")
+-首页
+![首页](https://quick123.net/images/introduction/key-zset-value.png "首页")
 
-- 直连模式![直连模式](https://quick123.net/images/quickredis_Introduction/saobing.png "saobing.png")
+-连接管理菜单（支持多目录管理、支持复制连接、拖动连接到目录）
+![连接管理菜单](https://quick123.net/images/introduction/host-menu.png "连接管理菜单")
 
-- 哨兵模式![哨兵模式](https://quick123.net/images/quickredis_Introduction/zhilian.png "zhilian.png")
+-多语言（简体中文、繁体中文、英文、日语、法语）
+![多语言](https://quick123.net/images/introduction/muti-language.png "多语言")
+
+-快速关闭多个 TAB
+![快速关闭多个 TAB](https://quick123.net/images/introduction/fast-close.png "快速关闭多个 TAB")
+
+-直连模式配置
+![直连模式配置](https://quick123.net/images/introduction/direct-config.png "直连模式配置")
+
+-哨兵模式配置
+![哨兵模式配置](https://quick123.net/images/introduction/sentinel-config.png "哨兵模式配置")
+
+-集群模式配置
+![集群模式配置](https://quick123.net/images/introduction/cluster-config.png "集群模式配置")
+
+-命令行
+![命令行](https://quick123.net/images/introduction/command-line.png "命令行")
+
+-string 类型管理（支持值的json格式化、修改key、修改ttl、删除key）
+![string 类型管理](https://quick123.net/images/introduction/key-string-value-json.png "string 类型管理")
+
+-list 类型管理（支持 list 分页查询、新增、删除）
+![list类型管理](https://quick123.net/images/introduction/key-list-value.png "list 类型管理")
+
+-set 类型管理（支持 set 分页查询、新增、删除）
+![set 类型管理](https://quick123.net/images/introduction/key-set-value.png "set 类型管理")
+
+-hash 类型管理（支持 hash 分页查询、新增、删除、修改）
+![hash 类型管理](https://quick123.net/images/introduction/key-hash-value.png "hash 类型管理")
 
 ## FAQ 
 如果你有任何使用方面的问题，请通过下面方式留言：
