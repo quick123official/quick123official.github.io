@@ -10,20 +10,20 @@ tags:
 
 # QuickRedis
 ## 介绍
-QuickRedis 是一款 **永久免费** 的 Redis 可视化管理工具。它支持**直连、哨兵、集群**模式，支持亿万数量级的 key，还有令人兴奋的 UI。QuickRedis 支持 Windows 、 Mac OS X 和 Ubuntu 下运行。
+QuickRedis 是一款 **永久免费** 的 Redis 可视化管理工具。它支持**直连、哨兵、集群**模式，支持亿万数量级的 key，还有令人兴奋的 UI。QuickRedis 支持 Windows 、 Mac OS X 和 Linux 下运行。
 
 QuickRedis 是一个效率工具，**当别人在努力敲命令的时候，而你已经在喝茶。**
 
 ## 下载地址
 
 **使用 百度网盘 下载**
-Windows & Mac & Ubuntu：链接: [https://pan.baidu.com/s/1zalgnwkoeC6-YcWMDN2StQ](https://pan.baidu.com/s/1zalgnwkoeC6-YcWMDN2StQ "百度网盘") 提取码: qw3i
+Windows & Mac OS X & Linux ：链接: [https://pan.baidu.com/s/1HzUSLmcFYuDHfqZd8n7FPQ](https://pan.baidu.com/s/1HzUSLmcFYuDHfqZd8n7FPQ "百度网盘") 提取码: 4hkv
 
 **使用 gitee 下载**
-Windows & Mac & Ubuntu：[https://gitee.com/quick123official/quick_redis_blog/](https://gitee.com/quick123official/quick_redis_blog/)
+Windows & Mac OS X & Linux ：[https://gitee.com/quick123official/quick_redis_blog/](https://gitee.com/quick123official/quick_redis_blog/)
 
 **使用 github下载**
-Windows & Mac & Ubuntu：[https://github.com/quick123official/quick_redis_blog/](https://github.com/quick123official/quick_redis_blog/)
+Windows & Mac OS X & Linux ：[https://github.com/quick123official/quick_redis_blog/](https://github.com/quick123official/quick_redis_blog/)
 
 ## 软件截图
 
