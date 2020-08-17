@@ -16,14 +16,23 @@ QuickRedis 是一个效率工具，**当别人在努力敲命令的时候，而�
 
 ## 下载地址
 
+[Windows](https://github.com/quick123official/quick_redis_blog/releases/download/v2.0.1/QuickRedis-2.0.1-win.exe "Windows")
+
+[Mac OS X](https://github.com/quick123official/quick_redis_blog/releases/download/v2.0.1/QuickRedis-2.0.1-mac.dmg "Mac OS X")
+
+[Linux](https://github.com/quick123official/quick_redis_blog/releases/download/v2.0.1/QuickRedis-2.0.1-linux-x86_64.AppImage "Linux")
+
 **使用 百度网盘 下载**
-Windows & Mac OS X & Linux ：链接: [https://pan.baidu.com/s/1HzUSLmcFYuDHfqZd8n7FPQ](https://pan.baidu.com/s/1HzUSLmcFYuDHfqZd8n7FPQ "百度网盘") 提取码: 4hkv
 
-**使用 gitee 下载**
-Windows & Mac OS X & Linux ：[https://gitee.com/quick123official/quick_redis_blog/](https://gitee.com/quick123official/quick_redis_blog/)
+Windows & Mac OS X & Linux ：链接: [https://pan.baidu.com/s/1OM8xV8h0cxKw-RHhX5QEcA](https://pan.baidu.com/s/1OM8xV8h0cxKw-RHhX5QEcA "百度网盘") 提取码: yp6t
 
-**使用 github下载**
-Windows & Mac OS X & Linux ：[https://github.com/quick123official/quick_redis_blog/](https://github.com/quick123official/quick_redis_blog/)
+**Download from github**
+
+Windows & Mac OS X & Linux : [https://github.com/quick123official/quick_redis_blog/](https://github.com/quick123official/quick_redis_blog/ "github")
+
+**Download from gitee**
+
+Windows & Mac OS X & Linux : [https://gitee.com/quick123official/quick_redis_blog/](https://gitee.com/quick123official/quick_redis_blog/ "gitee")
 
 ## 软件截图
 
