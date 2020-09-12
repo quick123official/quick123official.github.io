@@ -17,7 +17,7 @@ QuickRedis is a **free forever** Redis Desktop manager. It supports direct conne
 
 QuickRedis is an efficiency tool, **when others are trying to type commands, and you are already drinking coffee.**
 
-## Download URL
+## Download URL 
 **Download**
 
 [Windows](https://github.com/quick123official/quick_redis_blog/releases/download/v2.0.2/QuickRedis-2.0.2-win.exe "Windows")
@@ -27,6 +27,8 @@ QuickRedis is an efficiency tool, **when others are trying to type commands, and
 [Linux](https://github.com/quick123official/quick_redis_blog/releases/download/v2.0.2/QuickRedis-2.0.2-linux-x86_64.AppImage "Linux")
 
 **使用 百度网盘 下载**
+
+Windows & Mac OS X & Linux ：链接: [https://pan.baidu.com/s/1_A4zIb8t2NWgrjizK6oNAw](https://pan.baidu.com/s/1_A4zIb8t2NWgrjizK6oNAw "百度网盘") 提取码: bnq3
 
 **Download from github**
 
