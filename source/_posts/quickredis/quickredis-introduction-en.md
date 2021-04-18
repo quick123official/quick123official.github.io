@@ -20,11 +20,11 @@ QuickRedis is an efficiency tool, **when others are trying to type commands, and
 ## Download URL 
 **Download**
 
-[Windows](https://github.com/quick123official/quick_redis_blog/releases/download/v2.1.0/QuickRedis-2.1.0-win.exe "Windows")
+[Windows](https://github.com/quick123official/quick_redis_blog/releases/download/v2.2.0/QuickRedis-2.2.0-win.exe "Windows")
 
-[Mac OS X](https://github.com/quick123official/quick_redis_blog/releases/download/v2.1.0/QuickRedis-2.1.0-mac.dmg "Mac OS X")
+[Mac OS X](https://github.com/quick123official/quick_redis_blog/releases/download/v2.2.0/QuickRedis-2.2.0-mac.dmg "Mac OS X")
 
-[Linux](https://github.com/quick123official/quick_redis_blog/releases/download/v2.1.0/QuickRedis-2.1.0-linux-x86_64.AppImage "Linux")
+[Linux](https://github.com/quick123official/quick_redis_blog/releases/download/v2.2.0/QuickRedis-2.2.0-linux-x86_64.AppImage "Linux")
 
 **Download from github**
 
