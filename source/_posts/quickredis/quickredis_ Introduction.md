@@ -36,6 +36,9 @@ Windows & Mac OS X & Linux : [https://gitee.com/quick123official/quick_redis_blo
 
 ## 软件截图
 
+-树形展示keys
+![树形展示keys](https://quick123.net/images/introduction/show_keys_by_tree.jpg "树形展示keys")
+
 -首页
 ![首页](https://quick123.net/images/introduction/key-zset-value.png "首页")
 
