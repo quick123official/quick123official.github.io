@@ -35,12 +35,12 @@ Windows & Mac OS X & Linux : [https://gitee.com/quick123official/quick_redis_blo
 
 # QuickRedis 功能展示
 ## 主页
-![主页](https://quick123.net/images/introduction/1.png "主页")
+![主页](https://quick123.net/images/quickredis_recommend/1.png "主页")
 ## 支持直连、哨兵和集群模式
-![支持直连、哨兵和集群模式](https://quick123.net/images/introduction/2.png "支持直连、哨兵和集群模式")
+![支持直连、哨兵和集群模式](https://quick123.net/images/quickredis_recommend/2.png "支持直连、哨兵和集群模式")
 ## 支持命令行输入和命令提示
-![支持命令行输入和命令提示](https://quick123.net/images/introduction/3.png "支持命令行输入和命令提示")
+![支持命令行输入和命令提示](https://quick123.net/images/quickredis_recommend/3.png "支持命令行输入和命令提示")
 ## 按照目录管理key
-![按照目录管理key](https://quick123.net/images/introduction/4.png "按照目录管理key")
+![按照目录管理key](https://quick123.net/images/quickredis_recommend/4.png "按照目录管理key")
 ## 其它功能（按照目录管理链接、轻松支持亿级key管理、多tab管理等等）
-![其它功能](https://quick123.net/images/introduction/5.png "其它功能")
+![其它功能](https://quick123.net/images/quickredis_recommend/5.png "其它功能")
