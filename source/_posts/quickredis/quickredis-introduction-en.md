@@ -20,19 +20,13 @@ QuickRedis is an efficiency tool, **when others are trying to type commands, and
 ## Download URL 
 **Download**
 
-[Windows](https://github.com/quick123official/quick_redis_blog/releases/download/v2.2.0/QuickRedis-2.2.0-win.exe "Windows")
+[https://gitee.com/quick123official/quick_redis_blog/releases/](https://gitee.com/quick123official/quick_redis_blog/releases/ "https://gitee.com/quick123official/quick_redis_blog/releases/")
 
-[Mac OS X](https://github.com/quick123official/quick_redis_blog/releases/download/v2.2.0/QuickRedis-2.2.0-mac.dmg "Mac OS X")
+[https://github.com/quick123official/quick_redis_blog/releases/](https://github.com/quick123official/quick_redis_blog/releases/ "https://github.com/quick123official/quick_redis_blog/releases/")
 
-[Linux](https://github.com/quick123official/quick_redis_blog/releases/download/v2.2.0/QuickRedis-2.2.0-linux-x86_64.AppImage "Linux")
+**使用 百度网盘 下载**
 
-**Download from github**
-
-Windows & Mac OS X & Linux : [https://github.com/quick123official/quick_redis_blog/](https://github.com/quick123official/quick_redis_blog/ "github")
-
-**Download from gitee**
-
-Windows & Mac OS X & Linux : [https://gitee.com/quick123official/quick_redis_blog/](https://gitee.com/quick123official/quick_redis_blog/ "gitee")
+Windows & Mac OS X & Linux ：链接: [https://pan.baidu.com/s/10MbD-yzd3Eimkau0PBBE1w](https://pan.baidu.com/s/1zmQTzGtgAfV8gdF-TgFW6g?pwd=3qhv "百度网盘") 提取码: 3qhv
 
 ## Software screenshot
 
